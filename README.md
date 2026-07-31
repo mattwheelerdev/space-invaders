@@ -20,4 +20,4 @@
 
 <p><strong>Caution,</strong> this may be more aggressive than the "Space Invaders" you're used to!</p>
 
-<a href="https://mattwheeler-dev.github.io/space-invaders/" target="_blank">Try it out here</a>
+<a href="https://mattwheelerdev.github.io/space-invaders/" target="_blank">Try it out here</a>
